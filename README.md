@@ -57,15 +57,9 @@ I enjoy building **scalable APIs, SaaS platforms, and backend systems** using La
   
   <!-- Row 1: Stats (2 Column) -->
   <tr>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=Shahadat-Hossain-Shanto&theme=vision-friendly-dark&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" 
-        width="100%" 
-      />
-    </td>
-    <td width="50%" align="center">
-      <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Shahadat-Hossain-Shanto&theme=react-dark&color=0e75b6&hide_border=true" 
         width="100%" 
       />
     </td>
