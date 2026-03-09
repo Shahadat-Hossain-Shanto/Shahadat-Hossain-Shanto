@@ -6,7 +6,7 @@
 <h3 align="center">Laravel Developer | Full-Stack Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Shahadat+Hossain+Shanto;Laravel+Backend+Developer+|+Full-Stack+Engineer;Building+Scalable+APIs+and+SaaS+Platforms;Clean+Code+%7C+SOLID+Principles+%7C+Performance+Optimized" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Hi,+I'm+Shahadat+Hossain+Shanto;Full-Stack+Developer;Building+Scalable+APIs;Creating+Web+Applications;Clean+Code;SOLID+Principles;Performance+Optimization" />
 </p>
 
 <p align="center">
