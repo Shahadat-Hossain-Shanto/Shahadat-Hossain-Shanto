@@ -75,9 +75,13 @@ I enjoy building **scalable APIs, SaaS platforms, and backend systems** using La
   <!-- Row 1: Stats (2 Column) -->
   <tr>
     <td align="center">
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/Shahadat-Hossain-Shanto/Shahadat-Hossain-Shanto/output/github-contribution-grid-snake.svg" />
-      </p>
+        <p align="center">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahadat-Hossain-Shanto/Shahadat-Hossain-Shanto/output/github-contribution-grid-snake-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahadat-Hossain-Shanto/Shahadat-Hossain-Shanto/output/github-contribution-grid-snake.svg">
+            <img alt="snake animation" src="https://raw.githubusercontent.com/Shahadat-Hossain-Shanto/Shahadat-Hossain-Shanto/output/github-contribution-grid-snake.svg">
+          </picture>
+        </p>
     </td>
   </tr>
 </table>
