@@ -55,13 +55,11 @@ I enjoy building **scalable APIs, SaaS platforms, and backend systems** using La
 # 📊 GitHub Performance Metrics
 
 <table align="center" width="100%">
-  
-  <!-- Row 1: Stats (2 Column) -->
   <tr>
     <td width="100%" align="center">
-      <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Shahadat-Hossain-Shanto&theme=vision-friendly-dark&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" 
-        width="100%" 
+      <img
+        src="https://streak-stats.demolab.com?user=Shahadat-Hossain-Shanto&theme=vision-friendly-dark&hide_border=true"
+        width="100%"
       />
     </td>
   </tr>
@@ -72,7 +70,7 @@ I enjoy building **scalable APIs, SaaS platforms, and backend systems** using La
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahadat-Hossain-Shanto&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahadat-Hossain-Shanto&theme=react-dark&hide_border=true" />
 </p>
 
 ---
