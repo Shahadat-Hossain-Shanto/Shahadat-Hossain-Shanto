@@ -79,11 +79,16 @@ I enjoy building **scalable APIs, SaaS platforms, and backend systems** using La
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
+    <source
+      media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/Shahadat-Hossain-Shanto/Shahadat-Hossain-Shanto/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
+
+    <source
+      media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/Shahadat-Hossain-Shanto/Shahadat-Hossain-Shanto/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake"
+
+    <img
+      alt="GitHub Snake"
       src="https://raw.githubusercontent.com/Shahadat-Hossain-Shanto/Shahadat-Hossain-Shanto/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </p>
