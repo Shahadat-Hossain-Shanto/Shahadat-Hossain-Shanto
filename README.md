@@ -30,11 +30,12 @@ I am a **Laravel Backend Developer** from **Bangladesh 🇧🇩**.
 
 I enjoy building **scalable APIs, SaaS platforms, and backend systems** using Laravel.
 
-* 🔭 Currently working with **Laravel API & SaaS Applications**
-* 🌱 Learning **System Design, Docker, and AWS**
-* 👨‍💻 Focused on **Clean Code, SOLID Principles, and Performance**
-* ⚡ Passionate about solving **complex backend problems**
-* 🌐 Portfolio: **[shahadat-hossain-shanto.netlify.app](https://shahadat-hossain-shanto.netlify.app/)**
+- 🔭 Currently working with **Laravel APIs & SaaS Applications**
+- 🌱 Learning **System Design, Docker, and AWS**
+- 👨‍💻 Focused on **Clean Code, SOLID Principles, and Performance**
+- ⚡ Passionate about solving **complex backend problems**
+- 🌐 Portfolio: [shahadat-hossain-shanto.netlify.app](https://shahadat-hossain-shanto.netlify.app/)
+- 🦊 GitLab: [ShahadatHossainShanto](https://gitlab.com/ShahadatHossainShanto)
 
 ---
 
